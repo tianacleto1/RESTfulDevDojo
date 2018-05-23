@@ -1,0 +1,3 @@
+com\anacleto\endpoint\Service.class
+com\anacleto\paths\PessoaPath.class
+com\anacleto\persistence\model\Pessoa.class
